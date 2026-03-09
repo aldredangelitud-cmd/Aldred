@@ -1,0 +1,8 @@
+header{
+    background-image: url("header.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 60px;
+    text-align: center;
+    color: white;
+}
